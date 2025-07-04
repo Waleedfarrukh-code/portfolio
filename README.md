@@ -84,9 +84,9 @@ This project is licensed under the MIT License.
 Feel free to use it for personal or educational purposes.
 
 🙌 Acknowledgements
-Typed.js
 
-Font Awesome
+. Typed.js
+. Font Awesome
 
 
 
